@@ -1,0 +1,23 @@
+{
+  "name": "tema-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node demo/demo.js",
+    "start": "node src/methods.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "spotify-wrapper": "^2.1.0"
+  }
+}
