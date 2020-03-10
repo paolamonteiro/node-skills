@@ -1,2 +1,2 @@
 # javascript-skills
-Frontend studies to web development
+Some exercises to frontend studies.
