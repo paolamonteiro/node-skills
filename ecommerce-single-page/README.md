@@ -1,4 +1,4 @@
-#### Simple app to simulate a E-commerce single page with React Context API.
+#### Simple app to simulate an E-commerce single page with React Context API.
 
 Run the project:
 
