@@ -1,5 +1,5 @@
 ## Tests using Spotify API
 
-#### Frameworks:
+### Using:
 - Spotify Wrapper;
 - Jest.
